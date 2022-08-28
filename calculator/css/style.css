@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Square+Peg&display=swap');
+body{
+  background-color: ;
+  font-family: 'Square Peg', cursive;
+}
+table{
+  border: 5px solid #219ebc;
+  border-radius: 25px;
+}
+td{
+  text-align: center;
+  align-items: center;
+  border: 2px solid #219ebc;
+  border-radius: 5px;
+}
+.b{
+  background-color: #5a5a5a;
+  color:yellow;
+  padding: 15px 30px;
+  text-align: center;
+  font-size: 25px;
+  border: 2px solid #e5e5e5;
+  border-radius: 15px;
+}
+.td{
+  align:center;
+  background-color: #000;
+  border: 2px solid #219ebc;
+  border-radius: 15px;
+}
+.text{
+  font-size: 25px;
+}
+.h{
+  background-color: green;
+  color: #fff;
+}
+.center{
+  margin-left: auto;
+  margin-right: auto;
+}
